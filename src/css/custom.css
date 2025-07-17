@@ -1,0 +1,22 @@
+:root {
+  --ifm-color-primary: rgb(85, 221, 255);
+  --ifm-color-primary-dark: rgb(85, 221, 255);
+  --ifm-color-primary-darker: rgb(85, 221, 255);
+  --ifm-color-primary-darkest: rgb(85, 221, 255);
+  --ifm-color-primary-light: rgb(85, 221, 255);
+  --ifm-color-primary-lighter: rgb(85, 221, 255);
+  --ifm-color-primary-lightest: rgb(85, 221, 255);
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: rgb(85, 221, 255);
+  --ifm-color-primary-dark: rgb(85, 221, 255);
+  --ifm-color-primary-darker: rgb(85, 221, 255);
+  --ifm-color-primary-darkest: rgb(85, 221, 255);
+  --ifm-color-primary-light: rgb(85, 221, 255);
+  --ifm-color-primary-lighter: rgb(85, 221, 255);
+  --ifm-color-primary-lightest: rgb(85, 221, 255);
+  --docusaurus-highlighted-code-line-bg: rgb(136, 255, 0);
+}

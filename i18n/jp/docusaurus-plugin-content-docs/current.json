@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "次へ",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Client Class": {
+    "message": "Client クラス",
+    "description": "Sidebar category label for Client"
+  },
+  "docs.client.generated-index.description": {
+    "message": "Starrail Manager のクライアントクラスに関するドキュメントです。",
+    "description": "Description for generated index of client category"
+  },
+  "docs.client.index.title": {
+    "message": "Client クラスの概要",
+    "description": "Title for client/index.md"
+  }
+}
